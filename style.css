@@ -1,0 +1,5 @@
+.bg-hero-img {
+    background-image: url("https://ik.imagekit.io/gangadharan/Food-Store/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
